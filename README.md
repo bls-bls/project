@@ -1,9 +1,0 @@
-Hello teacher, for this course design, I want to work on a topic related to Olympic medal predictions. I have collected information on all national athletes' medal counts from 1896 to 2024, as well as details about the events and gold medal standings of each Olympic Games. I have organized these into five files and uploaded them to the Problem_Data folder. Based on this foundational data, after performing data preprocessing, cleaning up missing values and outliers, and constructing feature engineering, my main goals are:
-
-1.Build a model to predict the number of gold MEDALS and total MEDALS for each country at the 2028 Los Angeles Olympic Games, and give the range of predictions under different confidence intervals.
-
-2.Make predictions for countries that have not won a medal before, and identify a number of countries that are most likely to win their first medal at the next Olympics, with probabilities.
-
-3.Explore the dominant projects of each country, analyze the influence of coaches on competition results based on this, and give a prediction of which countries' dominant projects will be significantly improved after coaching, and predict the number of medals won.
-
-In the report, I will provide detailed answers to the above three questions and present some visualizations of the results. Finally, based on the data mining findings, I will offer some unique insights for the Olympics. It is worth noting that the report employs a wide range of data analysis methods, with code and intermediate csv files being quite intricate and complex, making it difficult to compile everything comprehensively. I have decided to present only parts of the code that are more structurally clear. As for the data files, only the raw data will be provided. When conducting significance tests and visualizing the results, I used some beautification plugins to enhance the presentation.Thank you for taking time to watch it.
